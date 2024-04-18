@@ -1,4 +1,4 @@
 # ts-deno-template
 <p align="center">
-  <img src="https://64.media.tumblr.com/f7c03edb809e5fb013fa19fa219a4c62/tumblr_no46eb37y91rc40z5o2_500.gif" />
+  <img src="https://i0.wp.com/i362.photobucket.com/albums/oo65/GPG/dinoChase.gif" />
 </p>
